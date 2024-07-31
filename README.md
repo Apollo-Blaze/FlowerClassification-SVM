@@ -1,4 +1,4 @@
-# Support Vector Machines Project
+# 🪻Support Vector Machines Project
 
 Welcome to my Support Vector Machine Project! In this project, we will be analyzing the famous Iris flower dataset using Support Vector Machines (SVM).
 
